@@ -65,7 +65,7 @@ Collection of tools for Trace Labs CTF
 ## Visualizing & Reporting
 -[Knightlab Story Map](https://storymap.knightlab.com/) - Create map to visualize information
 
--[Draw.io](draw.io) - Graph findingshttps://www.flickr.com/
+-[Draw.io](draw.io) - Graph findings
 
 ## Privacy
 
