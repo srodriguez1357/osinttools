@@ -7,6 +7,7 @@ Collection of tools for Trace Labs CTF
 
 -[theHarvester](https://github.com/laramies/theHarvester) - Email gathering
 
+-[h8mail](https://github.com/khast3x/h8mail) - Email information gathering
 
 ## Social Media Tools
 ### Facebook
@@ -29,6 +30,11 @@ Collection of tools for Trace Labs CTF
 
 ### Reddit
 
+### Snapchat
+-[Snapdex](https://www.snapdex.com/) - Snapchat searchable database
+
+-[Snapchat map](https://map.snapchat.com/) - Snapchat map
+
 ## Dark Web
 ### Keywords
 -[Iaca Dark Web Slang](https://iaca-darkweb-tools.com/reference-works/) - Check Dark Web common slang
@@ -37,6 +43,8 @@ Collection of tools for Trace Labs CTF
 
 ## Images
 -[One Click search](https://chrome.google.com/webstore/detail/one-click-reverse-image-s/pdlkdjkniakkdcefhpcnmengcnpbiick?hl=es-419&authuser=1) - Reverse image search in multiple engines
+
+-[Shutter](https://shutter-project.org/downloads/) - Linux screenshot tool
 
 ## Data leaks
 -[Dehashed](https://www.dehashed.com/) - Data Breaches
@@ -47,8 +55,10 @@ Collection of tools for Trace Labs CTF
 
 -[JustPaste.it](https://justpaste.it/) - Data Breaches
 
-## Advanced Search Engines
+## Advanced Search
 -[Pipl](https://pipl.com/) - People Search Engine
+
+-[Maltego](https://www.maltego.com/) - Information gathering and reporting
 
 -[Lampyre](https://lampyre.io/) - Email and Phone lookup
 
@@ -62,10 +72,24 @@ Collection of tools for Trace Labs CTF
 
 -[Wayback Machine](https://archive.org/web/) - Look at old versions of websites
 
+-[FamilyTreeNow](https://www.familytreenow.com/) - Look for possible relatives
+
+-[Skiptracer](https://github.com/xillwillx/skiptracer) - Information gathering
+
+## Metadata
+-[exiftool](https://github.com/exiftool/exiftool) - Extract metadata
+
+-[FOCA](https://www.elevenpaths.com/es/labstools/foca-2/index.html) -Extract metadata
+
 ## Visualizing & Reporting
 -[Knightlab Story Map](https://storymap.knightlab.com/) - Create map to visualize information
 
 -[Draw.io](draw.io) - Graph findings
+
+-[cherrytree](https://www.giuspen.com/cherrytree/) - Note taking 
+
+## Domain
+-[Whois](https://whois.domaintools.com/) - Domain information
 
 ## Privacy
 
