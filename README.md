@@ -13,13 +13,17 @@ Collection of tools for Trace Labs CTF
 ### Facebook
 -[fbi](https://github.com/xHak9x/fbi) - Account information gathering 
 
+-[Basic Facebook](https://mbasic.facebook.com/) - Basic version for scrapping
+
 ### Instagram
 -[InstagramOSINT](https://github.com/sc1341/InstagramOSINT) - Account information gathering
 
+-[spatulah](https://spatulah.com/) - Instagram scrapping
 ### Tiktok
 -[TikTok OSINT Combine Tool](https://www.osintcombine.com/tiktok-quick-search) - Check Usernames
 
 ### Twitter
+-[Tweetbeaver](https://tweetbeaver.com/) - Twitter Scrapping
 
 ### Linkedin
 -[Prophet](https://chrome.google.com/webstore/detail/prophet/alikckkmddkoooodkchoheabgakpopmg?hl=es) - Extension for finding emails
@@ -55,9 +59,24 @@ Collection of tools for Trace Labs CTF
 
 -[JustPaste.it](https://justpaste.it/) - Data Breaches
 
-## Advanced Search
--[Pipl](https://pipl.com/) - People Search Engine
+## People Search Engines
+-[Webmii](https://webmii.com/) - General
 
+-[Pipl](https://pipl.com/) - Gneral
+
+-[Zoominfo](https://www.zoominfo.com/) - Business 
+
+-[peekyou](https://www.peekyou.com/) - US Centric
+
+-[411](https://www.411.com/) - US Whitepages
+
+-[That's Them](https://thatsthem.com/) - IP Correlation
+
+-[Intelius](https://www.intelius.com/) - Basic info
+
+-[Whitepages](https://www.whitepages.com/) - US Whitepages
+
+## Advanced Search
 -[Maltego](https://www.maltego.com/) - Information gathering and reporting
 
 -[Lampyre](https://lampyre.io/) - Email and Phone lookup
@@ -65,8 +84,6 @@ Collection of tools for Trace Labs CTF
 -[Spiderfoot](https://www.spiderfoot.net/) - Reconnaissance tool 
 
 -[Hunchly](https://www.hunch.ly/) - Reconaissance tool
-
--[Zoominfo](https://www.zoominfo.com/) -People Search Engine
 
 -[Google Social Search](https://www.social-searcher.com/google-social-search/) - Search on multiple Social Media platforms
 
@@ -76,12 +93,19 @@ Collection of tools for Trace Labs CTF
 
 -[Skiptracer](https://github.com/xillwillx/skiptracer) - Information gathering
 
+## Username Check
+-[Namecheckup](https://namecheckup.com/)
+
+-[Namech_k](https://namechk.com/)
+
 ## Metadata
 -[exiftool](https://github.com/exiftool/exiftool) - Extract metadata
 
 -[FOCA](https://www.elevenpaths.com/es/labstools/foca-2/index.html) -Extract metadata
 
 ## Visualizing & Reporting
+-[Gephi](https://gephi.org/) - Graph visualization
+
 -[Knightlab Story Map](https://storymap.knightlab.com/) - Create map to visualize information
 
 -[Draw.io](draw.io) - Graph findings
