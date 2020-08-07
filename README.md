@@ -98,6 +98,8 @@ Collection of tools for Trace Labs CTF
 
 -[Namech_k](https://namechk.com/)
 
+-[WhatsMyName](https://whatsmyname.app/)
+
 ## Metadata
 -[exiftool](https://github.com/exiftool/exiftool) - Extract metadata
 
@@ -107,6 +109,8 @@ Collection of tools for Trace Labs CTF
 -[Gephi](https://gephi.org/) - Graph visualization
 
 -[Knightlab Story Map](https://storymap.knightlab.com/) - Create map to visualize information
+
+-[OSINT Combine Data Visualization](https://osintcombine.tools/) - Small scale visualization
 
 -[Draw.io](draw.io) - Graph findings
 
