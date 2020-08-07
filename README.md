@@ -40,7 +40,6 @@ Collection of tools for Trace Labs CTF
 -[Snapchat map](https://map.snapchat.com/) - Snapchat map
 
 ## Dark Web
-### Keywords
 -[Iaca Dark Web Slang](https://iaca-darkweb-tools.com/reference-works/) - Check Dark Web common slang
 
 -[Hunchly Report](https://www.hunch.ly/darkweb-osint/) - Hunchly report
