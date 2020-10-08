@@ -24,6 +24,7 @@ Collection of tools for Trace Labs CTF
 
 ### Twitter
 -[Tweetbeaver](https://tweetbeaver.com/) - Twitter Scrapping
+-[Tinfoleak](https://tinfoleak.com/) - Twitter Scrapping
 
 ### Linkedin
 -[Prophet](https://chrome.google.com/webstore/detail/prophet/alikckkmddkoooodkchoheabgakpopmg?hl=es) - Extension for finding emails
